@@ -1,0 +1,5 @@
+USER MANUAL for VivasKarlFinalProject.py ver 1
+
+Upon launching the program, the user will be prompted to input their height, weight, and activity level.
+After inputing their information, they can choose if they want to gain, lose, or maintain weight.
+The user can reset or quit the program whenever they want.
